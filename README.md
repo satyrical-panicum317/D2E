@@ -1,6 +1,6 @@
 # D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI
 
-Suhwan Choi*, Jaeyoon Jung*, Haebin Seong*, Minchan Kim, Minyeong Kim, Yongjun Cho, Yoonshik Kim, Yubeen Park, Youngjae Yu, Yunsung Lee
+Suhwan Choi*, Jaeyoon Jung*, Haebin Seong*, Minchan Kim, Minyeong Kim, Yongjun Cho, Yoonshik Kim, Yubeen Park, Youngjae Yu‡, Yunsung Lee‡
 
 [![project-page](https://img.shields.io/badge/Project%20Page-blue?style=flat-square)](https://worv-ai.github.io/d2e/) [![arXiv](https://img.shields.io/badge/arXiv-2410.01273-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2510.05684)
 
